@@ -1,0 +1,17 @@
+{
+    "name": "mattkurek/athena-php-input",
+    "description": "A PHP library for handling user input in a safe and efficient manor while requiring code",
+    "license": "Apache 2.0 License",
+    "autoload": {
+        "psr-4": {
+            "MattKurek\\AthenaPHP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matt Kurek",
+            "email": "me@mattkurek.com"
+        }
+    ],
+    "require": {}
+}
