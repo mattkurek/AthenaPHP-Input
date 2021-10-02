@@ -1,5 +1,5 @@
 {
-    "name": "mattkurek/athena-php-input",
+    "name": "mattkurek/athena-input",
     "description": "A PHP library for handling user input in a safe and efficient manor while requiring code",
     "license": "Apache 2.0 License",
     "autoload": {
